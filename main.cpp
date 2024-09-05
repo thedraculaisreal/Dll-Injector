@@ -31,7 +31,7 @@ DWORD GetProcId(const char* procName)
 
 int main()
 {
-	const char* dllPath = "C:\\Users\\schwarztoter\\Desktop\\AC.dll";
+	const char* dllPath = "C:\\Users\\schwarztoter\\Desktop\\AC-internal-cheat.dll";
 	const char* procName = "ac_client.exe";
 	DWORD procId = 0;
 
